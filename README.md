@@ -3,19 +3,16 @@ Hi! I'm WenkyX, a passionate programmer, now specializing in ERP development, we
 
 ## 🔧 Skills
 - **Programming Language:** Python, Java, HTML, CSS, Javascript, Typescript
-- **Software:** Odoo 17, Odoo 16, Odoo 11
-- **Web Frameworks:** Angular, Odoo Web Framework, OWL
+- **Software:** Odoo18, Odoo 17, Odoo 16, Odoo 11
+- **Web Frameworks:** Ionic, Angular, Odoo Web Framework, OWL
 - **Backend:** PostgreSQL
-- **Game Development:** (Want to start but don't have time 😓)
+- **Game Development:** Soon™ :)
 - **Version Control:** Git, SVN  
-- **Other Interests:** Cybersecurity, Photography, Arts, Anime, Games
+- **Other Interests:** Cybersecurity, FPV Drones, Photography, Arts, Anime, Games
 
 <!--
 ## 🚀 Projects
-- 🖥 **[My Node Chart Software](#)** – A simple node-based graph system with drag-and-drop functionality.
-- 🎮 **[Raycasting Engine](#)** – A custom 2D raycasting engine inspired by classic FPS games.
-- 📜 **[GitHub Pages Website](#)** – A personal documentation site with optimized image handling.
-- 🔢 **[Geometric Calculations](#)** – Various mathematical and physics-based experiments.
+
 -->
 ## 📫 Contact Me
 - **GitHub:** [github.com/WenkyX](https://github.com/WenkyX)
